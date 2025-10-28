@@ -4,7 +4,7 @@ This project demonstrates how gene expression data can be used to predict drug s
 
 ---
 
-## 📊 Step-by-Step Workflow
+## Step-by-Step Workflow
 
 ### Step 1: Import Libraries
 We imported essential Python libraries like **pandas**, **numpy**, **matplotlib**, and **scikit-learn** for data handling, visualization, and modeling.
@@ -48,14 +48,14 @@ Higher **GeneY expression** → lower **IC50**, indicating increased drug sensit
 
 ---
 
-## 🧠 Key Learning Outcomes
+##  Key Learning Outcomes
 - How to create and explore a synthetic bioinformatics dataset.  
 - How to train and visualize a simple linear regression model.  
 - How gene expression levels can relate to drug response metrics.
 
 ---
 
-## 🧰 Tools & Libraries
+## Tools & Libraries
 - Python 3  
 - pandas  
 - matplotlib  
@@ -63,11 +63,8 @@ Higher **GeneY expression** → lower **IC50**, indicating increased drug sensit
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 ```
 ├── gene_expression_drug_sensitivity.ipynb   # Jupyter Notebook
 ├── README.md                                # Project overview
 ```
-## 🧑‍💻 Author
-**Muhammad Nadeem**  
-Bioinformatics Undergraduate | GC
